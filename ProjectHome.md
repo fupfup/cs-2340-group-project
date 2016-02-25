@@ -1,0 +1,1 @@
+A custom Oregon Trail Game programmed by Team 36 in CS 2340
